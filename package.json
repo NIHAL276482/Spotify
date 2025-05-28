@@ -1,0 +1,19 @@
+{
+  "name": "spotify-converter",
+  "version": "1.0.0",
+  "description": "A Node.js app to convert Spotify URLs using Spotmate",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "express": "^4.21.0"
+  },
+  "engines": {
+    "node": ">=18.x"
+  },
+  "author": "",
+  "license": "ISC"
+}
